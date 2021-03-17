@@ -1,0 +1,15 @@
+---
+title: "Git Practice"
+author: "Jaya Vellayan"
+date: "3/17/2021"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+```{r}
+print("I'm Learning to Use Github...Boom")
+```
+
